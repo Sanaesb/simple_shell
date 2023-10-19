@@ -1,4 +1,3 @@
-99 % de l'espace de stockage utilisés … Une fois la limite atteinte, vous n'aurez plus assez d'espace pour créer, modifier ou importer des fichiers. Profitez de 100 Go de stockage pour 19,00 MAD 4,75 MAD/mois pendant 3 mois.
 #include "shell.h"
 
 /**
